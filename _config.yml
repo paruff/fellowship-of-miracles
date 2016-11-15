@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Fellowship of Mircalce
+name: Fellowship of Miralce
 
 # Short bio or description (displayed in the header)
 description: A deliberate Practice group reord toward everyday Miracles 
@@ -19,6 +19,7 @@ description: A deliberate Practice group reord toward everyday Miracles
 # Used for Sitemap.xml and your RSS feed
 url: http://paruff.github.io/fellowship-of-miracles
 
+theme: minima
 #
 # !! You don't need to change any of the configuration flags below !!
 #
