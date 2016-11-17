@@ -1,6 +1,6 @@
 ---
-post
-Title: Deliberate practice
+layout: post
+title:  Defining Deliberate Practice
 ---
 
 Deliberate Practice FRAME in 5 steps:
