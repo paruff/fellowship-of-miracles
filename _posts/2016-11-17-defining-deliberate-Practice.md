@@ -15,4 +15,5 @@ References:
 
 * [Practice - learning method](https://en.wikipedia.org/wiki/Practice_(learning_method))
 * [The Role of Deliberate Practice in the Acquisition of Expert Performance Anders Ericson pdf](http://projects.ict.usc.edu/itw/gel/EricssonDeliberatePracticePR93.PDF)
-* [http://expertsportsperformance.com/deliberate-practice-athletes-competition/](http://expertsportsperformance.com/deliberate-practice-athletes-competition/)
+* [Step of Deliberate Practice - FRAME](http://expertsportsperformance.com/deliberate-practice-athletes-competition/)
+ * [Deliberate Practice – A Primer](https://www.ttuhsc.edu/som/success/documents/primer_on_deliberate_practice.pdf)
